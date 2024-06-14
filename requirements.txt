@@ -88,3 +88,4 @@ web3==1.6.8
 requests==1.4.9
 eth-abi==2.6.9
 aiohttp==2.2.3
+requests==0.8.8
