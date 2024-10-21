@@ -80,3 +80,4 @@
 # fix 5341
 # optimize 4291
 # refactor 3999
+# optimize 5892
