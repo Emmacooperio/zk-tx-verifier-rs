@@ -41,3 +41,4 @@
 # optimize 4399
 # optimize 8528
 # fix 4600
+# fix 8348
