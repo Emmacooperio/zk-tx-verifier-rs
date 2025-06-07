@@ -99,3 +99,4 @@ eth-abi==1.0.5
 requests==1.7.3
 aiohttp==0.7.1
 aiohttp==0.7.8
+pydantic==1.5.2
